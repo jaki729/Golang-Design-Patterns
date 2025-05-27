@@ -1,5 +1,7 @@
 /*
 Adapter Design Pattern:
+This pattern is used to allow two incompatible interfaces to work together. 
+It acts as a bridge between the two interfaces, allowing them to communicate without changing their existing code.
 
 TargetInterface: used by clients
 Client: This will interact with the adapter
