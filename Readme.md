@@ -7,6 +7,9 @@ A curated collection of design patterns implemented in Go. This repository serve
 2. [State Pattern](StatePattern/state.go)
 3. [Strategy Pattern](StrategyPattern/strategy.go)
 4. [Observer Pattern](ObserverPattern/observer.go)
+5. [Prototype Pattern](PrototypePattern/prototype.go)
+6. [Singleton Pattern](SingletonPattern/singleton.go)
+
 
 ## Contributing
 

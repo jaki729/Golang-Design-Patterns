@@ -93,4 +93,6 @@ func DemoStrategyPattern() {
 	// Connect to MongoDB
 	dbConnection = DBCOnnection{Db: mongo}
 	dbConnection.DbConnect()
+
+	fmt.Println("Strategy Pattern Demo completed")
 }

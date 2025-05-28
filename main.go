@@ -6,6 +6,8 @@ import (
     "GoLang-Design-Patterns/StatePattern"
     "GoLang-Design-Patterns/StrategyPattern"
     "GoLang-Design-Patterns/ObserverPattern"
+    "GoLang-Design-Patterns/PrototypePattern"
+    "GoLang-Design-Patterns/SingletonPattern"
 )
 
 func main() {
@@ -24,4 +26,12 @@ func main() {
     // 4. Observer Design Pattern Demo
     fmt.Println("\nObserver Design Pattern Demo")
     observer.DemoObserverPattern()
+
+    // 5. Prototype Design Pattern Demo
+    fmt.Println("\nPrototype Design Pattern Demo")
+    prototype.DemoPrototypePattern()
+
+    // 6. Singleton Design Pattern Demo
+    fmt.Println("\nSingleton Design Pattern Demo")
+    singleton.DemoSingletonPattern()
 }

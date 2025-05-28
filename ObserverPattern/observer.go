@@ -90,4 +90,5 @@ func DemoObserverPattern() {
 	pub.Register(subs1)
 	pub.Register(subs2)
 	pub.NotifyAll("Thanks for notifying subscriber")
+	fmt.Println("Observer Pattern Demo Completed")
 }
