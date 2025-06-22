@@ -2,6 +2,9 @@
 
 A curated collection of design patterns implemented in Go. This repository serves as a reference and learning resource for developers interested in understanding and applying design patterns in Go projects.
 
+## Solid Principles in Golang
+[SOLID](SOLID/)
+
 ## Design Patterns
 1.  [Adapter Pattern](AdapterPattern/adapter.go)
 2.  [State Pattern](StatePattern/state.go)
