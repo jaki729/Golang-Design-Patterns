@@ -1,0 +1,6 @@
+SOLID Principles:
+S := Single Responsibility Principles
+O := Open-Closed Principles
+L := Liskov Substitution Principles
+I := Interface Segregation Principles
+D := Dependency Inversion Principles
